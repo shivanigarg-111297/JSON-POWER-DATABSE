@@ -43,3 +43,5 @@ Login with new password.
 Installing Talend API Tester from google apps.
 
 For More Details go to this channel: https://www.youtube.com/channel/UC_K_J2coHOL89Etb98WQmYQ
+
+*OR* check out here: https://login2explore.com/jpdb/docs.html
